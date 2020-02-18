@@ -1,0 +1,5 @@
+sword 3
+samuraiSword 5
+pistol 7
+gattlingGun 10
+goldenSamuraiSword 15
