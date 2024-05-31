@@ -3,9 +3,9 @@ import java.io.*;
 
 public class Villian extends Character {
 
-    public Villian(String nameAssigned){
+    public Villian(){
         
-        super(nameAssigned);
+        super("Cole Palmer");
         species = chooseVillain();
 
     }
